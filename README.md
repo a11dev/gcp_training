@@ -1,1 +1,3 @@
-# gcp_training
+# Gcp Training
+
+Esplorazioni faas in gcp
